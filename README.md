@@ -3,10 +3,14 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 ## Getting Started
 
 Run Docker:
+```bash
 docker compose up -d --build
+```
 
 Install:
+```bash
 npm install
+```
 
 First, run the development server:
 
