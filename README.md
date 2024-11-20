@@ -10,6 +10,8 @@ docker compose up -d --build
 Install:
 ```bash
 npm install
+# or 
+npm install --force
 ```
 
 First, run the development server:
